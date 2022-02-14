@@ -16,6 +16,7 @@ How can Bellabeat marketing strategy be oriented to these trends?
 
 ## Data
 FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius)
+[https://www.kaggle.com/arashnic/fitbit]
 
 The data contains various personal data of 30 Fitbit users who consented to the submission of fitness tracker data. Data includes physical activity, heart rate, and sleep monitoring. All data collected was anonymous. 
 
@@ -131,3 +132,4 @@ Keeping in mind the original objective to determine opportunities for growth my 
 -Based on observed trends regarding steps and activity on Sundays and Friday, I recommend enacting "community challenge days" on these days to drive engagement across the bellabeat user base. While personalizing push notifications to inidivual users during sedentary times may also be helpful, I believe implimenting community wide step challenge days can bolster a sense of engagement with the broader Bellabeat brand. 
 -I suggest starting a root cause analysis regarding why a subset of users do no record their sleep date or only record data for part of the day. This could invovle further data collection or opinion surveys. If the cause is due to discomfort with the device while sleeping, then this is an issue that should be addressed with a redesign. If the cause is due to perceived low value of gathering sleep data then an opportunity exists to build user opinions of the value of their device. This can be done by highlighting benefits of recording and monitoring this data a long with recommendations from the CDC or other health organizations. 
 -In addition to my recommendation regarding futher analysis into why some users do not record their sleep, I would suggest promoting Bellabeat as an overall wellness device. The correlation between inactivity and sleep could be used as a way to promote Bellabeat as a comprehensive wellness brand. 
+
